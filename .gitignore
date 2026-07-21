@@ -1,0 +1,20 @@
+# Ignore datasets
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.docx
+*.txt
+
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
