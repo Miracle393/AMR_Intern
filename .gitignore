@@ -6,6 +6,9 @@
 *.feather
 *.docx
 *.txt
+*.csv#
+*.xlsx#
+*.pdf
 
 
 # Ignore Python cache
