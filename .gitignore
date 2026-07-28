@@ -23,7 +23,7 @@ __pycache__/
 venv/
 .env/
 
-#Ingnore Notebooks
+#Ignore Documents
 Documentation-amr/
 
 #ignore cleaned csv
