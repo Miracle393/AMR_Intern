@@ -22,3 +22,12 @@ __pycache__/
 # Virtual environments
 venv/
 .env/
+
+#Ingnore Notebooks
+Documentation-amr/
+
+#ignore cleaned csv
+Cleaned amr data/
+
+#Ignore reports
+Reports/
